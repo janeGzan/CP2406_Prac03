@@ -1,7 +1,7 @@
 // This class discounts prices by 10%
 public class FixDebugFour4
 {
-   private static double DISCOUNT_RATE = 0.90;
+   private static final double DISCOUNT_RATE = 0.90;
    public static void main(String args[])
    {
       double price = 100.00;
